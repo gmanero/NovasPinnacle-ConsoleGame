@@ -1,6 +1,8 @@
 # Nova's Pinnacle
 
-Welcome to **Nova's Pinnacle** - an exciting console game where you go head-to-head against various bad guys in a quest for victory!
+ **Nova's Pinnacle** - an exciting console game where you go head-to-head against various bad guys in a quest for victory.
+
+ This was my first project in CS201. I was able to teach myself Java and the fundamentals of OOP during this project.
 <br>
 
 </br>
